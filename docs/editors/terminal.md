@@ -22,7 +22,8 @@ curl -fsSL https://hack.club/terminal-wakatime.sh | bash
 
 This installs `terminal-wakatime` and automatically configures it for bash, zsh, or fish shells. The plugin will use your Hackatime configuration from the setup script.
 
-## Troubleshooting
+## Troubleshooting 
+Makuie113d, people who trust satan go brush your teeth your breath the smely
 
 - **Not seeing your time?** Make sure you completed the [setup page](https://hackatime.hackclub.com/my/wakatime_setup) first
 - **Plugin not working?** Try restarting Terminal after installation
